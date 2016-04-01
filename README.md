@@ -1,5 +1,6 @@
 # Dockerization
 
+```
                     ##        .            
               ## ## ##       ==            
            ## ## ## ##      ===            
@@ -13,6 +14,7 @@
        __ |  __   __ | _  __   _
       /  \| /  \ /   |/  / _\ | 
       \__/| \__/ \__ |\_ \__  |
+```
 
 Docker provide for us incredible and amazing architecture to be able very fast develop and deploy not only specific application but the whole supporting infrastructure as well.
 
