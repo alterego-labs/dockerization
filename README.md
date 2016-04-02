@@ -29,3 +29,7 @@ Enjoy!
 ### elixir/Dockerfile
 
 Simple config for launching container for Elixir projects.
+
+### mysql/b2d
+
+Example configuration to running mysql container in boot2docker when you provide volume for storing data outside of the container.
